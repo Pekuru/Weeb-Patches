@@ -1,4 +1,5 @@
-#### Weeb Patches
+### Weeb Patches
+#### I don't know why I made this, I honestly don't.
 ------------
 So you're here because you got interested, and you want to either make your own, or add to the collection. Check the Resource folder, it has the things I used.  However, for some added effect, here is a little rundown of the xcf set-up and how i got the patch border to work.
 
